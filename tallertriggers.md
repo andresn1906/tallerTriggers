@@ -3,7 +3,6 @@
 ## 📌 Objetivo
 En este taller, aprenderás a utilizar Triggers en MySQL a través de casos prácticos. Implementarás triggers para validaciones, auditoría de cambios y registros automáticos.
 
-*----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------*
 
 ## Caso 1: Control de Stock de Productos
 
